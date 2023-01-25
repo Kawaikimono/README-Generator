@@ -1,0 +1,22 @@
+{
+  "name": "lesson-9-challenge-readme-generator",
+  "version": "1.0.0",
+  "description": "```\r This project was to use Node.js to generate a README file. \r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kawaikimono/Lesson-9-Challenge-README-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kawaikimono/Lesson-9-Challenge-README-Generator/issues"
+  },
+  "homepage": "https://github.com/Kawaikimono/Lesson-9-Challenge-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
