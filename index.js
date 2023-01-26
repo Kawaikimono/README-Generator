@@ -23,7 +23,7 @@ inquirer
     {
       type: "input",
       name: "usageInfo",
-      message: "Please provide instructions and examples for use:",
+      message: "What are some case examples for use of this project?",
     },
     {
       type: "input",

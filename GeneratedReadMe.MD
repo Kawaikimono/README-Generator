@@ -1,8 +1,8 @@
-# hello world
+# Generate Readme files
   ![license](https://img.shields.io/badge/license-MIT-green)
 
   ## Description
-  dis project
+  This application helps generate professional readme files
   
   ## Table of Contents
   
@@ -14,10 +14,10 @@
   - [Questions](#questions)
   
   ## Installation
-  123
+  npm init and npm install inquirer@8.2.4 need to be run in order to access this program
   
   ## Usage
-  for fun
+  to generate a professional readme in a hurry
   
   ## License
   MIT License
@@ -25,12 +25,12 @@
   A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
   ## How to Contribute
-  not
+  Please reach out to me if you would like to contribute at kitty@cat.com
   
   ## Tests
-  nope
+  Currently there are no tests for this application
   
   ## Questions
-  [alycat GitHub](https://github.com/alycat)
+  [kawaikimono GitHub](https://github.com/kawaikimono)
   
-  Please reach me at @kitty.com for any additional questions
+  Please reach me at kitty@cat.com for any additional questions

@@ -12,9 +12,9 @@ This project was to use Node.js to generate a README file.
 
 ## Depolyed Viewing
 
-Video link
+Shortened Video link: https://drive.google.com/file/d/1r1O-ph4yzljq_s-EmNsw4XfjjGt24sCc/view
 
-![Website preview](./Preview.png)
+Full length demo video: https://drive.google.com/file/d/1yHZ96QIW2zpwHy5TYEHgZM7c_iPaZ3iI/view
 
 ## Credits
  To Joe and edX Boot Camps LLC for providing material.
