@@ -1,4 +1,4 @@
-# Lesson-9-Challenge-README-Generator
+# README-Generator
 
 ## Description
 ```
